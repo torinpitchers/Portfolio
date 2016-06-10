@@ -81,7 +81,7 @@ h6 {
     }
 
     ul.intro-social-buttons > li {
-        display: block;
+        display: inline-block;
         margin-bottom: 20px;
         padding: 0;
     }
@@ -160,7 +160,7 @@ h6 {
     }
 
     ul.banner-social-buttons > li {
-        display: block;
+        display: inline-block;
         margin-bottom: 20px;
         padding: 0;
     }
