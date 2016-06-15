@@ -98,6 +98,13 @@ h6 {
     }
 }
 
+.section-header {
+    color: #dfdfdf;
+    text-align: center;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    font-size: 5em;
+}
+
 .network-name {
     text-transform: uppercase;
     font-size: 14px;
