@@ -96,6 +96,16 @@ h6 {
     .intro-divider {
         width: 100%;
     }
+    
+    ul.work-image > li {
+        display: inline-block;
+        margin-bottom: 20px;
+        margin-right: 0.5cm;
+        margin-left: 0.5cm;
+        padding: 0;
+        width: 50%;
+        
+    }
 }
 
 .section-header {
